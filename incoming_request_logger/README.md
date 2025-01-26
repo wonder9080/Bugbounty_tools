@@ -1,6 +1,6 @@
 # node.js/express logger(better than php)
 - requires:
-  - apt install npm -Y
+  - apt install npm -y
   - npm init 
   - npm install express
 
